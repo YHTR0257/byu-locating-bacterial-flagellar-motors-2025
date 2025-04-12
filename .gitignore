@@ -7,7 +7,9 @@ __pycache__/
 *.so
 
 # Private data
+.DS_Store
 /input/data/*
+/working/
 
 # Distribution / packaging
 .Python
