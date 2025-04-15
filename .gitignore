@@ -8,7 +8,7 @@ __pycache__/
 
 # Private data
 .DS_Store
-/input/data/*
+/input/*
 /working/
 
 # Distribution / packaging
