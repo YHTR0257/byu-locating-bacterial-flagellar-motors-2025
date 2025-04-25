@@ -9,7 +9,8 @@ __pycache__/
 # Private data
 .DS_Store
 /input/*
-/working/
+/working/*
+/output/*
 .setting.json
 
 # Distribution / packaging
